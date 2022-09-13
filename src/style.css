@@ -16,6 +16,22 @@
     font-size: 30px
 }
 
+.first {
+    align-content: center;
+    justify-content: center;
+}
+.first {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.second {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
 body {
     margin: 0;
     padding: 0;
