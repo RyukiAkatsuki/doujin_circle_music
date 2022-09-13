@@ -1,3 +1,21 @@
+#home {
+    text-align: center;
+    color: #812efd;
+    font-size: 50px;
+}
+
+#music {
+    margin-top: 700px;
+    text-align: center;
+    font-size: 50px;
+    color: #812efd;
+}
+
+.circle {
+    margin-top: 50px;
+    font-size: 30px
+}
+
 body {
     margin: 0;
     padding: 0;
